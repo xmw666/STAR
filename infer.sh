@@ -1,0 +1,1 @@
+sh scripts/test.sh -g 8 -d scannet -c semseg-star-ft -n star_ft
