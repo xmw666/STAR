@@ -104,8 +104,8 @@ body {
 }
 
 .teaser .hero-body {
-  padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-top: 0.5rem;
+  padding-bottom: 2rem;
 }
 
 .teaser {
@@ -142,7 +142,7 @@ body {
 }
 
 .publication-header .hero-body {
-  padding: 6rem 1.5rem 4rem;
+  padding: 6rem 1.5rem 1.5rem;
 }
 
 .publication-authors {
