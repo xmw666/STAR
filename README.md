@@ -1,6 +1,7 @@
 # STAR: A Spatial-Topology Aware Routing Framework for Generalizable 3D Scene Understanding
 
-
+[![arXiv](https://img.shields.io/badge/arXiv-2608.11699-b31b1b.svg)](https://arxiv.org/abs/2608.11699)
+[![Homepage](https://img.shields.io/badge/Homepage-STAR-blue)](https://xmw666.github.io/STAR/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Model-yellow)](https://huggingface.co/koun123/STAR/tree/main)
 
 This repository contains the official open-source implementation of **STAR**, built on top of Pointcept for generalizable 3D scene understanding.
